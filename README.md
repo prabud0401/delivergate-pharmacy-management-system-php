@@ -28,8 +28,29 @@ This repository contains the backend project for a pharmacy management system de
 - **Remove/Edit Items (Cashier Only)**: `/api/items/{id}`, `/api/customers/{id}`
 - **Update/Delete Customer Details (Manager Only)**: `/api/customers/{id}`
 
-## Database Diagram:
-![Database Diagram](link_to_your_database_diagram)
+## Database Structure:
+
+### Inventory Table:
+- **Table Name:** `items`
+- **Fields:**
+  - `id`: Primary Key, Auto-increment
+  - `name`: Name of the item (e.g., medicine name)
+  - `quantity`: Quantity of the item available in the inventory
+  - `price`: Price of the item
+  - `created_at`: Timestamp
+  - `updated_at`: Timestamp
+
+### Customer Table:
+- **Table Name:** `customers`
+- **Fields:**
+  - `id`: Primary Key, Auto-increment
+  - `name`: Name of the customer
+  - `email`: Email address of the customer
+  - `phone`: Phone number of the customer
+  - `address`: Address of the customer
+  - `created_at`: Timestamp
+  - `updated_at`: Timestamp
+
 
 ## Documentation:
 [Link to Documentation](link_to_your_documentation)
