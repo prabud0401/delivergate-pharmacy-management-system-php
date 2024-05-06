@@ -4,7 +4,7 @@ This repository contains the backend project for a pharmacy management system de
 
 ## GitHub Repository:
 - [GitHub Repository](https://github.com/prabud0401/delivergate-pharmacy-management-system-php.git)
-- [SSH Repository](git@github.com:prabud0401/delivergate-pharmacy-management-system-php.git)
+- SSH Repository : git@github.com:prabud0401/delivergate-pharmacy-management-system-php.git
 
 ## Notion Documentation:
 - [Notion Documentation](https://full-wallet-edc.notion.site/d67d9688b898446ba3c0eba85a0c6e1c?v=a22922ed4ae44417a62e56bc93822f91&pvs=4)
