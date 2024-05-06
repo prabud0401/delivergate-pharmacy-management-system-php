@@ -1,6 +1,13 @@
 # delivergate-pharmacy-management-system-php
 
-This repository contains the backend project for a pharmacy management system developed for Delivergate using PHP Laravel Framework. The system allows for inventory management, customer record maintenance, and user privilege management, adhering to the specified requirements.
+This repository contains the backend project for a pharmacy management system developed for Delivergate by [Udayasooriyan Prabudeva](https://github.com/prabud0401) using PHP Laravel Framework. The system allows for inventory management, customer record maintenance, and user privilege management, adhering to the specified requirements.
+
+## GitHub Repository:
+- [GitHub Repository](https://github.com/prabud0401/delivergate-pharmacy-management-system-php.git)
+- [SSH Repository](git@github.com:prabud0401/delivergate-pharmacy-management-system-php.git)
+
+## Notion Documentation:
+- [Notion Documentation](https://full-wallet-edc.notion.site/d67d9688b898446ba3c0eba85a0c6e1c?v=a22922ed4ae44417a62e56bc93822f91&pvs=4)
 
 ## Features:
 - **Inventory Management**: Allows the owner to maintain inventory (medicines).
@@ -51,12 +58,12 @@ This repository contains the backend project for a pharmacy management system de
   - `created_at`: Timestamp
   - `updated_at`: Timestamp
 
+![Database Diagram](./Documentation/image.png)
 
 ## Documentation:
-[Link to Documentation](link_to_your_documentation)
+[Link to Documentation](./Documentation/Pharmacy%20Management%20System%20Documentation.pdf)
 
 ## Postman Collection:
-[Link to Postman Collection](link_to_your_postman_collection)
+[Link to Postman Collection](./Documentation/Postman%20Request%20Collection%20Documentation.pdf)
 
-Feel free to reach out if you have any questions or need assistance.
-
+For any inquiries, please contact [prabud0401@gmail.com](mailto:prabud0401@gmail.com).
