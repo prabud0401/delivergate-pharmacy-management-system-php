@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ItemController;
 use App\Http\Controllers\CustomerController;
+
 use Illuminate\Support\Facades\Route;
 
 // Routes for items
